@@ -1,6 +1,6 @@
-`git clone https://github.com/fedoxyz/IQTest.git`
+`git clone https://github.com/fedoxyz/AppKuyen.git`
 
-`cd IQTest`
+`cd AppKuyen`
 
 `npm install`
 
