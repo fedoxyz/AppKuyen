@@ -189,7 +189,9 @@ function saveTestResults(result) {
   gap: 8px;
   bottom: 20px;
   position: absolute;
-  position-area: bottom;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
 }
 .result-box {
   margin-top: 24px;
@@ -230,6 +232,7 @@ select {
   cursor: pointer;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   color: black;
+  max-width: 100%;
 }
 
 select:focus {
