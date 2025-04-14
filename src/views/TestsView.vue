@@ -38,6 +38,9 @@ function goToTest(id) {
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
   padding: 80px 20px 40px 20px;
+  margin-left: auto;
+  max-width: 1200px;
+  margin-right: auto;
 }
 .test-card {
   border: 1px solid #ccc;
