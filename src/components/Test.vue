@@ -229,6 +229,7 @@ select {
   background-size: 1rem;
   cursor: pointer;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  color: black;
 }
 
 select:focus {
