@@ -251,6 +251,7 @@ input {
   outline: none;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   background-color: #f9f9f9;
+  color: black;
 }
 
 input:focus {
